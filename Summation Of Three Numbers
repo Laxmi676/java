@@ -1,0 +1,11 @@
+class Summation
+{
+     public static void main(String args[])
+     {
+            int k=5;
+            int p=2;
+            int o=9;
+            int sum=k+p+o:
+            System.out.println(sum);
+     }
+}
